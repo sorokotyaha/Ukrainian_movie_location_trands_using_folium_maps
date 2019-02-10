@@ -13,6 +13,8 @@ This module proceeds the information from previously generated YEAR.csv files
 
 # Main point of the research
 
+We get the heat map of the film locations in Ukraine. The brighter the color is - the greater number of films was shut there.
+Each layer is a heat map of a certain year. In this case, 2012-2018.
 As we can see from different layears of the heat map, the most attractive locations for movie industry in Ukraine are:
   1. Carpathian mountains, Western Ukraine
   2. Kyiv and Kyiv region, Chernobyl
